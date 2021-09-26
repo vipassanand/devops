@@ -1,1 +1,2 @@
 This is filea.txt
+This is the second line in FileA.txt
